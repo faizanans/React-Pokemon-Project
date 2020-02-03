@@ -1,0 +1,24 @@
+.PokeCard{
+    border-radius: 3px;
+    width: 300px;
+    padding: 10px;
+    margin: 1rem;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0, 0.56);
+    text-align: center;
+    background-color: white;
+}
+
+.PokeCard-title{
+    color: #61697F;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.PokeCard-exp{
+    font-size: 20px;
+    font-family: cursive;
+}
+.PokeCard-type{
+    font-size: 20px;
+    font-family: cursive;
+}
